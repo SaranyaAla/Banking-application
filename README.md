@@ -1,3 +1,3 @@
 Task-1:Basic Banking System
-Name: Tulasi Yanala 
-Description: Project by TULASI YANALA done as an Intern Under The Sparks foundation.
+Name: Ala Naga Mahitha Saranya 
+Description: Project by Ala Naga Mahitha Saranya done as an Intern Under The Sparks foundation.
